@@ -6,3 +6,4 @@ Linea creada en branch experimental en local
 OK hice un merge desde master para funcionar experimental... resulto y esto esta escrito desde readme en Master
 la intencion ahora es traspasar este master a repo remoto...
 Texto escrito en readme desde remoto web, en ramna master
+Texto en readme local master, despues de hacer git pull
